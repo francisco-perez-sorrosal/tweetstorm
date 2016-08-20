@@ -1,0 +1,22 @@
+.classpath
+.project
+.settings
+.metadata
+dependency-reduced-pom.xml
+target/
+lib/
+*.log
+*.log.*
+*.orig
+*.iml
+*.ipr
+.idea/
+*.iws
+*~
+*.swp
+
+# Project generated jar
+tweetstorm-1.0-SNAPSHOT.jar
+
+# User-spacific configurations
+conf/myconfig.properties
